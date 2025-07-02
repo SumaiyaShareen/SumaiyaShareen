@@ -1,7 +1,7 @@
 ![Logo](https://github.com/SumaiyaShareen/SumaiyaShareen/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sumaiya Shareen</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/30832962/file/original-199091f9b19f067153ecd518321a3898.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumaiyashareen&label=Profile%20views&color=0e75b6&style=flat" alt="sumaiyashareen" /> </p>
 
